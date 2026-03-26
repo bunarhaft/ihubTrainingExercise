@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3583b622-0c7b-4c0c-a31c-c0bfd78455c4" name="Changes" comment="Hibernate + H2 hinzugefügt. test erfolgreich">
+    <list default="true" id="3583b622-0c7b-4c0c-a31c-c0bfd78455c4" name="Changes" comment="Created new classes.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/incident-service/src/main/java/com/hamzic/ihub/incident_service/controller/IncidentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/incident-service/src/main/java/com/hamzic/ihub/incident_service/controller/IncidentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incident-service/src/main/java/com/hamzic/ihub/incident_service/entity/IncidentStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/incident-service/src/main/java/com/hamzic/ihub/incident_service/entity/IncidentStatus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -172,11 +173,20 @@
       <option name="project" value="LOCAL" />
       <updated>1774548191091</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created new classes.">
+      <option name="closed" value="true" />
+      <created>1774548572528</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774548572528</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hibernate + H2 hinzugefügt. test erfolgreich" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hibernate + H2 hinzugefügt. test erfolgreich" />
+    <MESSAGE value="Created new classes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created new classes." />
   </component>
 </project>

@@ -1,4 +1,7 @@
 package com.hamzic.ihub.incident_service.entity;
 
-public class IncidentStatus {
+public enum IncidentStatus {
+    OPEN,
+    IN_PROGRESS,
+    CLOSED
 }
