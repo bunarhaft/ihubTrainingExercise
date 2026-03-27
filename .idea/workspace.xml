@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3583b622-0c7b-4c0c-a31c-c0bfd78455c4" name="Changes" comment="Created new classes.">
+    <list default="true" id="3583b622-0c7b-4c0c-a31c-c0bfd78455c4" name="Changes" comment="Incident.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/incident-service/src/main/java/com/hamzic/ihub/incident_service/entity/Incident.java" beforeDir="false" afterPath="$PROJECT_DIR$/incident-service/src/main/java/com/hamzic/ihub/incident_service/entity/Incident.java" afterDir="false" />
     </list>
@@ -189,12 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1774555302527</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Incident.java">
+      <option name="closed" value="true" />
+      <created>1774575210180</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774575210180</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hibernate + H2 hinzugefügt. test erfolgreich" />
     <MESSAGE value="Created new classes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created new classes." />
+    <MESSAGE value="Incident.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Incident.java" />
   </component>
 </project>
